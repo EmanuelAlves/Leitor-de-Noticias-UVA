@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Android2Activity!</string>
+    <string name="app_name">Leitor de Noticias - UVA</string>
+    <string name="sobre">Objetivo: App Android com a finalidade de listar as últimas notícias da Universidade Estadual Vale do Acaraú - UVA </string>
+    <string name="feito">Desenvolvedor: Emanuel Alves, aluno do curso de Ciencias da Computação - UVA - 2012</string>
+    <string name="email">E-mail: emanuel.alvesc@gmail.com</string>
+    <string name="voltar">Voltar</string>
+    <string name="menu_nome_sobre">Sobre</string>
+</resources>
